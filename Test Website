@@ -1,11 +1,15 @@
 <html>
 <head>
 <title>Test website to practice GitHub</title> 
+<style>
 .body {
-       color: blue;}
+       color: blue;
+       }
 .h1 {
        style: bold;
-       font: helvetica; }
+       font: helvetica; 
+       }
+</style>        
 </head>
 <body>
 <h1>Test Website To Help Me Practice Learning GitHub</h1> 
