@@ -2,14 +2,15 @@
 <head>
 <title>Test website to practice GitHub</title> 
 <style>
-.body {
-       color: blue;
-       }
-.h1 {
-       style: bold;
-       font: helvetica; 
-       }
-</style>        
+body {
+    background-color: linen;
+}
+
+h1 {
+    color: maroon;
+    margin-left: 40px;
+} 
+</style>       
 </head>
 <body>
 <h1>Test Website To Help Me Practice Learning GitHub</h1> 
